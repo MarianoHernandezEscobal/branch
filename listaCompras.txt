@@ -1,6 +1,4 @@
-leche
-pan
-lechuga
-tomate
-cebolla
-Queso Cremoso
+huevos
+harina
+aceite
+vinagre
